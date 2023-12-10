@@ -9,13 +9,13 @@
 <p>I am passionate about learning new forms of technology and tools that enables or improves everyday tasks. Since I can remember I have always been fascinanted about the power technology has to transform the way we interact with the world.</p>
 </div>
 
-<h3 align="left">Contacts</h3>
-<span><a href="https://www.linkedin.com/in/pilarbfernandez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a></span>
-<span><a href="mailto:pilarbfernandez28@gmail.com/"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a></span>
-
 <div>
   <span><img width="400" align="right" style="margin: 30px 0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilarfernandezz&theme=blue-green"/></span>
 </div>
+
+<h3 align="left">Contacts</h3>
+<span><a href="https://www.linkedin.com/in/pilarbfernandez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a></span>
+<span><a href="mailto:pilarbfernandez28@gmail.com/"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a></span>
 
 <h3 align="left">Languages and Tools</h3>
 <span><img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/></span>
@@ -25,10 +25,9 @@
 <span><img src="https://img.shields.io/badge/Vue.js-00bb7f?style=for-the-badge&logo=vuedotjs&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GITHUB-gray?style=for-the-badge&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MongoDB-%2300b626?style=for-the-badge&logo=mongodb&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Python-%231f70a1?style=for-the-badge&logo=python&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Python-%231f70a1?style=for-the-badge&logo=python&logoColor=white"/></span>__
 
-
-
+<br><img src="/contributions.png" height=300 alt="Contributions"/>
 
 <h3 align="left">Interests</h3>
 
