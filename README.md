@@ -25,7 +25,7 @@
 <span><img src="https://img.shields.io/badge/Vue.js-00bb7f?style=for-the-badge&logo=vuedotjs&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GITHUB-gray?style=for-the-badge&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MongoDB-%2300b626?style=for-the-badge&logo=mongodb&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Python-%231f70a1?style=for-the-badge&logo=python&logoColor=white"/></span>__
+<span><img src="https://img.shields.io/badge/Python-%231f70a1?style=for-the-badge&logo=python&logoColor=white"/></span>
 
 <br><img src="/contributions.png" height=300 alt="Contributions"/>
 
