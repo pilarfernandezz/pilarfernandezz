@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h3 align="center">FullStack Developer at   <span><img src="IBM logo.png" height=20 alt="IBM"/></span> </h3>
+<h3 align="center">FullStack Developer at   <span><img src="/IBM_logo1-removebg-preview.png" height=20 alt="IBM"/></span> </h3>
 
 
 <!--
