@@ -1,7 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Pilar Fernandez</h1>
 
 
 <h3 align="center">FullStack Developer at   <span><img src="/IBM_logo1-removebg-preview.png" height=20 alt="IBM"/></span> </h3>
+<h3 align="center">   <span><img src="/giphy.gif" height=400 alt="IBM"/></span> </h3>
 
 
 <!--
