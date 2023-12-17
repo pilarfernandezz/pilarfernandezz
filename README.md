@@ -27,7 +27,7 @@
 <span><img src="https://img.shields.io/badge/MongoDB-%2300b626?style=for-the-badge&logo=mongodb&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Python-%231f70a1?style=for-the-badge&logo=python&logoColor=white"/></span>
 
-<br><img src="/Contributions.png" height=300 alt="Contributions"/>
+<br><img src="/Contributions.png" height=250 alt="Contributions"/>
 
 <h3 align="left">Interests</h3>
 
