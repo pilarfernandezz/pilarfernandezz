@@ -6,7 +6,7 @@
 
 
 <h3 align="left">About Me</h3>
-<p>I am passionate about learning new forms of technology and tools that enables or improves everyday tasks. Since I can remember I have always been fascinanted about the power technology has to transform the way we interact with the world.</p>
+<p>I am passionate about learning new forms of technology and tools that enables or improves everyday tasks. Since I can remember I have always been fascinated about the power technology has to transform the way we interact with the world.</p>
 </div>
 
 <div style="margin-bottom: 20px">
