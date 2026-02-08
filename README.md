@@ -58,9 +58,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-<img src="/Contributions.png" height=250 alt="Contributions"/>
 
 <h3 align="left">Interests</h3>
+- Building scalable UIs that drives business impact
 
 - AI
 
