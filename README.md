@@ -24,6 +24,7 @@
 <span><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Vue.js-00bb7f?style=for-the-badge&logo=vuedotjs&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/React-orange?style=for-the-badge&logo=vuedotjs&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Python-%231f70a1?style=for-the-badge&logo=python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GITHUB-gray?style=for-the-badge&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MongoDB-%2300b626?style=for-the-badge&logo=mongodb&logoColor=white"/></span>
