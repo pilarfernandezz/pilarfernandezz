@@ -60,13 +60,10 @@
 
 
 <h3 align="left">Interests</h3>
--Building scalable UIs that drives business impact
+
+- Building scalable UIs that drives business impact
 
 - AI
 
 - Text-to-speach systems
-
-- Big data
-
-- Building scalable UIs that drives business impact
 
